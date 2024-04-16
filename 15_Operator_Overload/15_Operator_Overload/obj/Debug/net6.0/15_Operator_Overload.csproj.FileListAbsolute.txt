@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\bin\Debug\net6.0\15_Operator_Overload.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\bin\Debug\net6.0\15_Operator_Overload.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\bin\Debug\net6.0\15_Operator_Overload.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\bin\Debug\net6.0\15_Operator_Overload.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\bin\Debug\net6.0\15_Operator_Overload.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\refint\15_Operator_Overload.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\15_Operator_Overload.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Operator_Overload\15_Operator_Overload\obj\Debug\net6.0\ref\15_Operator_Overload.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\15_Operator_Overload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F236B1B-5356-41FC-8F52-062C51FEA6D5}|15_Operator_Overload\\15_Operator_Overload.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\15_operator_overload\\15_operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F236B1B-5356-41FC-8F52-062C51FEA6D5}|15_Operator_Overload\\15_Operator_Overload.csproj|solutionrelative:15_operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\15_Operator_Overload\\15_Operator_Overload\\Program.cs",
+              "RelativeDocumentMoniker": "15_Operator_Overload\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\15_Operator_Overload\\15_Operator_Overload\\Program.cs",
+              "RelativeToolTip": "15_Operator_Overload\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:50:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

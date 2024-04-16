@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\bin\Debug\net6.0\15_Boxing_Unboxing.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\bin\Debug\net6.0\15_Boxing_Unboxing.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\bin\Debug\net6.0\15_Boxing_Unboxing.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\bin\Debug\net6.0\15_Boxing_Unboxing.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\bin\Debug\net6.0\15_Boxing_Unboxing.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\refint\15_Boxing_Unboxing.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\15_Boxing_Unboxing.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Boxing_Unboxing\15_Boxing_Unboxing\obj\Debug\net6.0\ref\15_Boxing_Unboxing.dll

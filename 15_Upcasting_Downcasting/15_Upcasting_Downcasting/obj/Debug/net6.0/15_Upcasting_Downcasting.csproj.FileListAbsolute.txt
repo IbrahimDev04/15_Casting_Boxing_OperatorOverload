@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\bin\Debug\net6.0\15_Upcasting_Downcasting.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\bin\Debug\net6.0\15_Upcasting_Downcasting.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\bin\Debug\net6.0\15_Upcasting_Downcasting.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\bin\Debug\net6.0\15_Upcasting_Downcasting.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\bin\Debug\net6.0\15_Upcasting_Downcasting.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\refint\15_Upcasting_Downcasting.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\15_Upcasting_Downcasting.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\15_Upcasting_Downcasting\15_Upcasting_Downcasting\obj\Debug\net6.0\ref\15_Upcasting_Downcasting.dll
